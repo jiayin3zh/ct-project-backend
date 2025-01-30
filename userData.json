@@ -1,0 +1,2783 @@
+[
+  {
+    "userId": "111",
+    "pageType": "1",
+    "responses": [
+      {
+        "question": "Please enter your Prolific ID.",
+        "answer": "111",
+        "timestamp": "2025-01-26T09:53:42.014Z"
+      },
+      {
+        "question": "[INSERT TEXT]",
+        "answer": "Choice1",
+        "timestamp": "2025-01-26T09:53:45.064Z"
+      },
+      {
+        "question": "[INSERT TEXT]",
+        "answer": "Choice3",
+        "timestamp": "2025-01-26T09:53:45.064Z"
+      },
+      {
+        "question": "Why?",
+        "answer": "222",
+        "timestamp": "2025-01-26T09:53:45.064Z"
+      }
+    ],
+    "openScrollTimes": [],
+    "hasScrolledToBottom": false,
+    "aiOverviewHoverTimes": [
+      {
+        "startTimestamp": 1737885228000,
+        "endTimestamp": 1737885228016,
+        "totalTime": 16
+      },
+      {
+        "startTimestamp": 1737885228133,
+        "endTimestamp": 1737885228149,
+        "totalTime": 16
+      },
+      {
+        "startTimestamp": 1737885228599,
+        "endTimestamp": 1737885229299,
+        "totalTime": 700
+      },
+      {
+        "startTimestamp": 1737885229682,
+        "endTimestamp": 1737885230265,
+        "totalTime": 583
+      },
+      {
+        "startTimestamp": 1737885230299,
+        "endTimestamp": 1737885230499,
+        "totalTime": 200
+      },
+      {
+        "startTimestamp": 1737885231849,
+        "endTimestamp": 1737885232149,
+        "totalTime": 300
+      },
+      {
+        "startTimestamp": 1737885233032,
+        "endTimestamp": 1737885233383,
+        "totalTime": 351
+      },
+      {
+        "startTimestamp": 1737885237182,
+        "endTimestamp": 1737885237232,
+        "totalTime": 50
+      },
+      {
+        "startTimestamp": 1737885239316,
+        "endTimestamp": 1737885239365,
+        "totalTime": 49
+      },
+      {
+        "startTimestamp": 1737885240715,
+        "endTimestamp": 1737885242550,
+        "totalTime": 1835
+      },
+      {
+        "startTimestamp": 1737885250189,
+        "endTimestamp": 1737885250197,
+        "totalTime": 8
+      },
+      {
+        "startTimestamp": 1737885250749,
+        "endTimestamp": 1737885250981,
+        "totalTime": 232
+      },
+      {
+        "startTimestamp": 1737885251914,
+        "endTimestamp": 1737885252037,
+        "totalTime": 123
+      },
+      {
+        "startTimestamp": 1737885392701,
+        "endTimestamp": 1737885392746,
+        "totalTime": 45
+      }
+    ],
+    "searchResultsHoverTimes": [],
+    "aiOverviewPageView": [
+      {
+        "type": "aiOverview",
+        "pageId": "1",
+        "time": {
+          "startTimestamp": 1737885250970,
+          "endTimestamp": 1737885251901,
+          "totalTime": 931
+        },
+        "hasScrolledToBottom": false
+      }
+    ],
+    "referencePageClicks": 1,
+    "searchResultsPageView": []
+  },
+  {
+    "userId": "123",
+    "pageType": "1",
+    "responses": [
+      {
+        "question": "Please enter your Prolific ID.",
+        "answer": "123",
+        "timestamp": "2025-01-26T09:56:35.382Z"
+      },
+      {
+        "question": "[INSERT TEXT]",
+        "answer": "Choice2",
+        "timestamp": "2025-01-26T09:56:39.462Z"
+      },
+      {
+        "question": "[INSERT TEXT]",
+        "answer": "Choice2",
+        "timestamp": "2025-01-26T09:56:39.462Z"
+      },
+      {
+        "question": "Why?",
+        "answer": "123",
+        "timestamp": "2025-01-26T09:56:39.462Z"
+      }
+    ],
+    "openScrollTimes": [
+      {
+        "startTimestamp": 1737885400142,
+        "endTimestamp": 1737885412628,
+        "totalTime": 12486
+      }
+    ],
+    "hasScrolledToBottom": true,
+    "aiOverviewHoverTimes": [
+      {
+        "startTimestamp": 1737885401390,
+        "endTimestamp": 1737885401709,
+        "totalTime": 319
+      },
+      {
+        "startTimestamp": 1737885402878,
+        "endTimestamp": 1737885402982,
+        "totalTime": 104
+      },
+      {
+        "startTimestamp": 1737885404190,
+        "endTimestamp": 1737885404789,
+        "totalTime": 599
+      },
+      {
+        "startTimestamp": 1737885406028,
+        "endTimestamp": 1737885406102,
+        "totalTime": 74
+      },
+      {
+        "startTimestamp": 1737885407414,
+        "endTimestamp": 1737885409286,
+        "totalTime": 1872
+      },
+      {
+        "startTimestamp": 1737885410778,
+        "endTimestamp": 1737885411014,
+        "totalTime": 236
+      },
+      {
+        "startTimestamp": 1737885450735,
+        "endTimestamp": 1737885451045,
+        "totalTime": 310
+      },
+      {
+        "startTimestamp": 1737885451541,
+        "endTimestamp": 1737885451649,
+        "totalTime": 108
+      },
+      {
+        "startTimestamp": 1737885452239,
+        "endTimestamp": 1737885452246,
+        "totalTime": 7
+      }
+    ],
+    "searchResultsHoverTimes": [
+      {
+        "startTimestamp": 1737885409542,
+        "endTimestamp": 1737885409845,
+        "totalTime": 303
+      },
+      {
+        "startTimestamp": 1737885411134,
+        "endTimestamp": 1737885411470,
+        "totalTime": 336
+      },
+      {
+        "startTimestamp": 1737885411534,
+        "endTimestamp": 1737885411565,
+        "totalTime": 31
+      },
+      {
+        "startTimestamp": 1737885411582,
+        "endTimestamp": 1737885412070,
+        "totalTime": 488
+      },
+      {
+        "startTimestamp": 1737885412070,
+        "endTimestamp": 1737885412647,
+        "totalTime": 577
+      },
+      {
+        "startTimestamp": 1737885412647,
+        "endTimestamp": 1737885412982,
+        "totalTime": 335
+      },
+      {
+        "startTimestamp": 1737885412990,
+        "endTimestamp": 1737885413118,
+        "totalTime": 128
+      },
+      {
+        "startTimestamp": 1737885413189,
+        "endTimestamp": 1737885413795,
+        "totalTime": 606
+      },
+      {
+        "startTimestamp": 1737885415745,
+        "endTimestamp": 1737885416795,
+        "totalTime": 1050
+      },
+      {
+        "startTimestamp": 1737885418344,
+        "endTimestamp": 1737885418638,
+        "totalTime": 294
+      },
+      {
+        "startTimestamp": 1737885418653,
+        "endTimestamp": 1737885418821,
+        "totalTime": 168
+      },
+      {
+        "startTimestamp": 1737885418830,
+        "endTimestamp": 1737885418869,
+        "totalTime": 39
+      }
+    ],
+    "aiOverviewPageView": [],
+    "referencePageClicks": 0,
+    "searchResultsPageView": [
+      {
+        "type": "search",
+        "pageId": "1",
+        "time": {
+          "startTimestamp": 1737885402183,
+          "endTimestamp": 1737885402870,
+          "totalTime": 687
+        },
+        "hasScrolledToBottom": false
+      },
+      {
+        "type": "search",
+        "pageId": "1",
+        "time": {
+          "startTimestamp": 1737885405240,
+          "endTimestamp": 1737885406022,
+          "totalTime": 782
+        },
+        "hasScrolledToBottom": false
+      },
+      {
+        "type": "search",
+        "pageId": "searchresult_1",
+        "time": {
+          "startTimestamp": 1737885409838,
+          "endTimestamp": 1737885410766,
+          "totalTime": 928
+        },
+        "hasScrolledToBottom": false
+      }
+    ]
+  },
+  {
+    "userId": "222",
+    "pageType": "1",
+    "responses": [
+      {
+        "question": "Please enter your Prolific ID.",
+        "answer": "222",
+        "timestamp": "2025-01-26T09:58:28.014Z"
+      },
+      {
+        "question": "[INSERT TEXT]",
+        "answer": "Choice2",
+        "timestamp": "2025-01-26T09:58:32.191Z"
+      },
+      {
+        "question": "[INSERT TEXT]",
+        "answer": "Choice2",
+        "timestamp": "2025-01-26T09:58:32.191Z"
+      },
+      {
+        "question": "Why?",
+        "answer": "333",
+        "timestamp": "2025-01-26T09:58:32.191Z"
+      }
+    ],
+    "openScrollTimes": [
+      {
+        "startTimestamp": 1737885514832,
+        "endTimestamp": 1737885532375,
+        "totalTime": 17543
+      }
+    ],
+    "hasScrolledToBottom": true,
+    "aiOverviewHoverTimes": [
+      {
+        "startTimestamp": 1737885517864,
+        "endTimestamp": 1737885518254,
+        "totalTime": 390
+      },
+      {
+        "startTimestamp": 1737885521870,
+        "endTimestamp": 1737885522176,
+        "totalTime": 306
+      },
+      {
+        "startTimestamp": 1737885523392,
+        "endTimestamp": 1737885523534,
+        "totalTime": 142
+      },
+      {
+        "startTimestamp": 1737885525710,
+        "endTimestamp": 1737885525993,
+        "totalTime": 283
+      },
+      {
+        "startTimestamp": 1737885528046,
+        "endTimestamp": 1737885528642,
+        "totalTime": 596
+      },
+      {
+        "startTimestamp": 1737885539174,
+        "endTimestamp": 1737885539214,
+        "totalTime": 40
+      }
+    ],
+    "searchResultsHoverTimes": [
+      {
+        "startTimestamp": 1737885521092,
+        "endTimestamp": 1737885521289,
+        "totalTime": 197
+      },
+      {
+        "startTimestamp": 1737885527759,
+        "endTimestamp": 1737885527862,
+        "totalTime": 103
+      },
+      {
+        "startTimestamp": 1737885527926,
+        "endTimestamp": 1737885528022,
+        "totalTime": 96
+      },
+      {
+        "startTimestamp": 1737885528642,
+        "endTimestamp": 1737885530349,
+        "totalTime": 1707
+      },
+      {
+        "startTimestamp": 1737885530349,
+        "endTimestamp": 1737885531080,
+        "totalTime": 731
+      },
+      {
+        "startTimestamp": 1737885531080,
+        "endTimestamp": 1737885531494,
+        "totalTime": 414
+      },
+      {
+        "startTimestamp": 1737885531494,
+        "endTimestamp": 1737885531550,
+        "totalTime": 56
+      },
+      {
+        "startTimestamp": 1737885531864,
+        "endTimestamp": 1737885532686,
+        "totalTime": 822
+      },
+      {
+        "startTimestamp": 1737885532686,
+        "endTimestamp": 1737885532782,
+        "totalTime": 96
+      },
+      {
+        "startTimestamp": 1737885532790,
+        "endTimestamp": 1737885532886,
+        "totalTime": 96
+      },
+      {
+        "startTimestamp": 1737885533030,
+        "endTimestamp": 1737885535128,
+        "totalTime": 2098
+      },
+      {
+        "startTimestamp": 1737885536942,
+        "endTimestamp": 1737885537334,
+        "totalTime": 392
+      },
+      {
+        "startTimestamp": 1737885537382,
+        "endTimestamp": 1737885537511,
+        "totalTime": 129
+      },
+      {
+        "startTimestamp": 1737885537511,
+        "endTimestamp": 1737885537814,
+        "totalTime": 303
+      },
+      {
+        "startTimestamp": 1737885537838,
+        "endTimestamp": 1737885537878,
+        "totalTime": 40
+      },
+      {
+        "startTimestamp": 1737885537878,
+        "endTimestamp": 1737885537910,
+        "totalTime": 32
+      },
+      {
+        "startTimestamp": 1737885537926,
+        "endTimestamp": 1737885538078,
+        "totalTime": 152
+      },
+      {
+        "startTimestamp": 1737885538126,
+        "endTimestamp": 1737885538318,
+        "totalTime": 192
+      },
+      {
+        "startTimestamp": 1737885538326,
+        "endTimestamp": 1737885538341,
+        "totalTime": 15
+      }
+    ],
+    "aiOverviewPageView": [
+      {
+        "type": "aiOverview",
+        "pageId": "1",
+        "time": {
+          "startTimestamp": 1737885522166,
+          "endTimestamp": 1737885523382,
+          "totalTime": 1216
+        },
+        "hasScrolledToBottom": false
+      },
+      {
+        "type": "aiOverview",
+        "pageId": "1",
+        "time": {
+          "startTimestamp": 1737885525982,
+          "endTimestamp": 1737885527750,
+          "totalTime": 1768
+        },
+        "hasScrolledToBottom": true
+      }
+    ],
+    "referencePageClicks": 2,
+    "searchResultsPageView": [
+      {
+        "type": "search",
+        "pageId": "1",
+        "time": {
+          "startTimestamp": 1737885518870,
+          "endTimestamp": 1737885521086,
+          "totalTime": 2216
+        },
+        "hasScrolledToBottom": true
+      },
+      {
+        "type": "search",
+        "pageId": "searchresult_10",
+        "time": {
+          "startTimestamp": 1737885535126,
+          "endTimestamp": 1737885536927,
+          "totalTime": 1801
+        },
+        "hasScrolledToBottom": true
+      }
+    ]
+  },
+  {
+    "userId": "test 1",
+    "pageType": "1",
+    "responses": [
+      {
+        "question": "Please enter your Prolific ID.",
+        "answer": "test 1",
+        "timestamp": "2025-01-27T07:18:44.082Z"
+      },
+      {
+        "question": "[INSERT TEXT]",
+        "answer": "Choice1",
+        "timestamp": "2025-01-27T07:18:48.175Z"
+      },
+      {
+        "question": "[INSERT TEXT]",
+        "answer": "Choice1",
+        "timestamp": "2025-01-27T07:18:48.175Z"
+      },
+      {
+        "question": "Why?",
+        "answer": "http://localhost:3000",
+        "timestamp": "2025-01-27T07:18:48.175Z"
+      }
+    ],
+    "openScrollTimes": [],
+    "hasScrolledToBottom": false,
+    "aiOverviewHoverTimes": [],
+    "searchResultsHoverTimes": [],
+    "aiOverviewPageView": [],
+    "referencePageClicks": 0,
+    "searchResultsPageView": []
+  },
+  {
+    "userId": "http://localhost:3000",
+    "pageType": "1",
+    "responses": [
+      {
+        "question": "Please enter your Prolific ID.",
+        "answer": "http://localhost:3000",
+        "timestamp": "2025-01-27T07:19:00.132Z"
+      },
+      {
+        "question": "[INSERT TEXT]",
+        "answer": "Choice3",
+        "timestamp": "2025-01-27T07:19:03.435Z"
+      },
+      {
+        "question": "[INSERT TEXT]",
+        "answer": "Choice3",
+        "timestamp": "2025-01-27T07:19:03.435Z"
+      },
+      {
+        "question": "Why?",
+        "answer": "http://localhost:3000",
+        "timestamp": "2025-01-27T07:19:03.435Z"
+      }
+    ],
+    "openScrollTimes": [
+      {
+        "startTimestamp": 1737962344321,
+        "endTimestamp": 1737962388733,
+        "totalTime": 44412
+      }
+    ],
+    "hasScrolledToBottom": true,
+    "aiOverviewHoverTimes": [
+      {
+        "startTimestamp": 1737962345575,
+        "endTimestamp": 1737962345691,
+        "totalTime": 116
+      },
+      {
+        "startTimestamp": 1737962346767,
+        "endTimestamp": 1737962346943,
+        "totalTime": 176
+      },
+      {
+        "startTimestamp": 1737962349500,
+        "endTimestamp": 1737962349616,
+        "totalTime": 116
+      },
+      {
+        "startTimestamp": 1737962352379,
+        "endTimestamp": 1737962353663,
+        "totalTime": 1284
+      },
+      {
+        "startTimestamp": 1737962354208,
+        "endTimestamp": 1737962354408,
+        "totalTime": 200
+      },
+      {
+        "startTimestamp": 1737962354600,
+        "endTimestamp": 1737962354616,
+        "totalTime": 16
+      },
+      {
+        "startTimestamp": 1737962355066,
+        "endTimestamp": 1737962355617,
+        "totalTime": 551
+      },
+      {
+        "startTimestamp": 1737962355700,
+        "endTimestamp": 1737962356591,
+        "totalTime": 891
+      },
+      {
+        "startTimestamp": 1737962356884,
+        "endTimestamp": 1737962357050,
+        "totalTime": 166
+      },
+      {
+        "startTimestamp": 1737962357183,
+        "endTimestamp": 1737962357366,
+        "totalTime": 183
+      },
+      {
+        "startTimestamp": 1737962357633,
+        "endTimestamp": 1737962357917,
+        "totalTime": 284
+      },
+      {
+        "startTimestamp": 1737962358100,
+        "endTimestamp": 1737962358342,
+        "totalTime": 242
+      },
+      {
+        "startTimestamp": 1737962358624,
+        "endTimestamp": 1737962359017,
+        "totalTime": 393
+      },
+      {
+        "startTimestamp": 1737962360480,
+        "endTimestamp": 1737962360630,
+        "totalTime": 150
+      },
+      {
+        "startTimestamp": 1737962360772,
+        "endTimestamp": 1737962360787,
+        "totalTime": 15
+      },
+      {
+        "startTimestamp": 1737962361084,
+        "endTimestamp": 1737962361429,
+        "totalTime": 345
+      },
+      {
+        "startTimestamp": 1737962363052,
+        "endTimestamp": 1737962363054,
+        "totalTime": 2
+      },
+      {
+        "startTimestamp": 1737962363063,
+        "endTimestamp": 1737962363683,
+        "totalTime": 620
+      },
+      {
+        "startTimestamp": 1737962365211,
+        "endTimestamp": 1737962365971,
+        "totalTime": 760
+      },
+      {
+        "startTimestamp": 1737962366066,
+        "endTimestamp": 1737962370183,
+        "totalTime": 4117
+      },
+      {
+        "startTimestamp": 1737962370382,
+        "endTimestamp": 1737962370752,
+        "totalTime": 370
+      },
+      {
+        "startTimestamp": 1737962370852,
+        "endTimestamp": 1737962371351,
+        "totalTime": 499
+      },
+      {
+        "startTimestamp": 1737962371619,
+        "endTimestamp": 1737962371860,
+        "totalTime": 241
+      },
+      {
+        "startTimestamp": 1737962372477,
+        "endTimestamp": 1737962372756,
+        "totalTime": 279
+      },
+      {
+        "startTimestamp": 1737962372898,
+        "endTimestamp": 1737962373097,
+        "totalTime": 199
+      },
+      {
+        "startTimestamp": 1737962374021,
+        "endTimestamp": 1737962374470,
+        "totalTime": 449
+      },
+      {
+        "startTimestamp": 1737962375838,
+        "endTimestamp": 1737962376369,
+        "totalTime": 531
+      },
+      {
+        "startTimestamp": 1737962377785,
+        "endTimestamp": 1737962378315,
+        "totalTime": 530
+      },
+      {
+        "startTimestamp": 1737962380182,
+        "endTimestamp": 1737962381515,
+        "totalTime": 1333
+      },
+      {
+        "startTimestamp": 1737962381632,
+        "endTimestamp": 1737962381967,
+        "totalTime": 335
+      },
+      {
+        "startTimestamp": 1737962382166,
+        "endTimestamp": 1737962382417,
+        "totalTime": 251
+      },
+      {
+        "startTimestamp": 1737962392026,
+        "endTimestamp": 1737962392043,
+        "totalTime": 17
+      },
+      {
+        "startTimestamp": 1737962411555,
+        "endTimestamp": 1737962411579,
+        "totalTime": 24
+      },
+      {
+        "startTimestamp": 1737962412335,
+        "endTimestamp": 1737962412343,
+        "totalTime": 8
+      },
+      {
+        "startTimestamp": 1737962415637,
+        "endTimestamp": 1737962415661,
+        "totalTime": 24
+      },
+      {
+        "startTimestamp": 1737962416177,
+        "endTimestamp": 1737962416185,
+        "totalTime": 8
+      },
+      {
+        "startTimestamp": 1737962428540,
+        "endTimestamp": 1737962428847,
+        "totalTime": 307
+      },
+      {
+        "startTimestamp": 1737962429065,
+        "endTimestamp": 1737962429082,
+        "totalTime": 17
+      },
+      {
+        "startTimestamp": 1737962429972,
+        "endTimestamp": 1737962430031,
+        "totalTime": 59
+      },
+      {
+        "startTimestamp": 1737962437868,
+        "endTimestamp": 1737962439555,
+        "totalTime": 1687
+      },
+      {
+        "startTimestamp": 1737962440272,
+        "endTimestamp": 1737962440297,
+        "totalTime": 25
+      },
+      {
+        "startTimestamp": 1737962447939,
+        "endTimestamp": 1737962447964,
+        "totalTime": 25
+      },
+      {
+        "startTimestamp": 1737962662549,
+        "endTimestamp": 1737962662615,
+        "totalTime": 66
+      }
+    ],
+    "searchResultsHoverTimes": [
+      {
+        "startTimestamp": 1737962373155,
+        "endTimestamp": 1737962373390,
+        "totalTime": 235
+      },
+      {
+        "startTimestamp": 1737962381967,
+        "endTimestamp": 1737962382159,
+        "totalTime": 192
+      },
+      {
+        "startTimestamp": 1737962382458,
+        "endTimestamp": 1737962382821,
+        "totalTime": 363
+      },
+      {
+        "startTimestamp": 1737962386867,
+        "endTimestamp": 1737962387083,
+        "totalTime": 216
+      },
+      {
+        "startTimestamp": 1737962387083,
+        "endTimestamp": 1737962387142,
+        "totalTime": 59
+      },
+      {
+        "startTimestamp": 1737962387491,
+        "endTimestamp": 1737962387884,
+        "totalTime": 393
+      },
+      {
+        "startTimestamp": 1737962387908,
+        "endTimestamp": 1737962388374,
+        "totalTime": 466
+      },
+      {
+        "startTimestamp": 1737962388374,
+        "endTimestamp": 1737962389069,
+        "totalTime": 695
+      },
+      {
+        "startTimestamp": 1737962389356,
+        "endTimestamp": 1737962389650,
+        "totalTime": 294
+      },
+      {
+        "startTimestamp": 1737962389650,
+        "endTimestamp": 1737962389781,
+        "totalTime": 131
+      },
+      {
+        "startTimestamp": 1737962390635,
+        "endTimestamp": 1737962390752,
+        "totalTime": 117
+      },
+      {
+        "startTimestamp": 1737962391164,
+        "endTimestamp": 1737962391951,
+        "totalTime": 787
+      },
+      {
+        "startTimestamp": 1737962391968,
+        "endTimestamp": 1737962391993,
+        "totalTime": 25
+      },
+      {
+        "startTimestamp": 1737962392001,
+        "endTimestamp": 1737962392018,
+        "totalTime": 17
+      },
+      {
+        "startTimestamp": 1737962399852,
+        "endTimestamp": 1737962399968,
+        "totalTime": 116
+      },
+      {
+        "startTimestamp": 1737962400371,
+        "endTimestamp": 1737962400697,
+        "totalTime": 326
+      },
+      {
+        "startTimestamp": 1737962406800,
+        "endTimestamp": 1737962406933,
+        "totalTime": 133
+      },
+      {
+        "startTimestamp": 1737962409402,
+        "endTimestamp": 1737962409694,
+        "totalTime": 292
+      },
+      {
+        "startTimestamp": 1737962412423,
+        "endTimestamp": 1737962412915,
+        "totalTime": 492
+      },
+      {
+        "startTimestamp": 1737962412932,
+        "endTimestamp": 1737962413373,
+        "totalTime": 441
+      },
+      {
+        "startTimestamp": 1737962413373,
+        "endTimestamp": 1737962413417,
+        "totalTime": 44
+      },
+      {
+        "startTimestamp": 1737962413433,
+        "endTimestamp": 1737962413490,
+        "totalTime": 57
+      },
+      {
+        "startTimestamp": 1737962413490,
+        "endTimestamp": 1737962413532,
+        "totalTime": 42
+      },
+      {
+        "startTimestamp": 1737962413599,
+        "endTimestamp": 1737962413632,
+        "totalTime": 33
+      },
+      {
+        "startTimestamp": 1737962413640,
+        "endTimestamp": 1737962413790,
+        "totalTime": 150
+      },
+      {
+        "startTimestamp": 1737962413799,
+        "endTimestamp": 1737962414444,
+        "totalTime": 645
+      },
+      {
+        "startTimestamp": 1737962414444,
+        "endTimestamp": 1737962415207,
+        "totalTime": 763
+      },
+      {
+        "startTimestamp": 1737962415207,
+        "endTimestamp": 1737962415525,
+        "totalTime": 318
+      },
+      {
+        "startTimestamp": 1737962415533,
+        "endTimestamp": 1737962415579,
+        "totalTime": 46
+      },
+      {
+        "startTimestamp": 1737962415579,
+        "endTimestamp": 1737962415595,
+        "totalTime": 16
+      },
+      {
+        "startTimestamp": 1737962417032,
+        "endTimestamp": 1737962417065,
+        "totalTime": 33
+      },
+      {
+        "startTimestamp": 1737962417074,
+        "endTimestamp": 1737962417131,
+        "totalTime": 57
+      },
+      {
+        "startTimestamp": 1737962417148,
+        "endTimestamp": 1737962417456,
+        "totalTime": 308
+      },
+      {
+        "startTimestamp": 1737962417498,
+        "endTimestamp": 1737962417690,
+        "totalTime": 192
+      },
+      {
+        "startTimestamp": 1737962417723,
+        "endTimestamp": 1737962417798,
+        "totalTime": 75
+      },
+      {
+        "startTimestamp": 1737962418040,
+        "endTimestamp": 1737962418788,
+        "totalTime": 748
+      },
+      {
+        "startTimestamp": 1737962418788,
+        "endTimestamp": 1737962418962,
+        "totalTime": 174
+      },
+      {
+        "startTimestamp": 1737962419053,
+        "endTimestamp": 1737962419399,
+        "totalTime": 346
+      },
+      {
+        "startTimestamp": 1737962422373,
+        "endTimestamp": 1737962422643,
+        "totalTime": 270
+      },
+      {
+        "startTimestamp": 1737962422643,
+        "endTimestamp": 1737962423931,
+        "totalTime": 1288
+      },
+      {
+        "startTimestamp": 1737962423931,
+        "endTimestamp": 1737962423964,
+        "totalTime": 33
+      },
+      {
+        "startTimestamp": 1737962423981,
+        "endTimestamp": 1737962424014,
+        "totalTime": 33
+      },
+      {
+        "startTimestamp": 1737962427073,
+        "endTimestamp": 1737962427397,
+        "totalTime": 324
+      },
+      {
+        "startTimestamp": 1737962427397,
+        "endTimestamp": 1737962427672,
+        "totalTime": 275
+      },
+      {
+        "startTimestamp": 1737962428508,
+        "endTimestamp": 1737962428532,
+        "totalTime": 24
+      },
+      {
+        "startTimestamp": 1737962430039,
+        "endTimestamp": 1737962430806,
+        "totalTime": 767
+      },
+      {
+        "startTimestamp": 1737962430806,
+        "endTimestamp": 1737962431939,
+        "totalTime": 1133
+      },
+      {
+        "startTimestamp": 1737962431939,
+        "endTimestamp": 1737962432014,
+        "totalTime": 75
+      },
+      {
+        "startTimestamp": 1737962432022,
+        "endTimestamp": 1737962432056,
+        "totalTime": 34
+      },
+      {
+        "startTimestamp": 1737962432064,
+        "endTimestamp": 1737962434264,
+        "totalTime": 2200
+      },
+      {
+        "startTimestamp": 1737962434273,
+        "endTimestamp": 1737962435289,
+        "totalTime": 1016
+      },
+      {
+        "startTimestamp": 1737962435289,
+        "endTimestamp": 1737962436117,
+        "totalTime": 828
+      },
+      {
+        "startTimestamp": 1737962436117,
+        "endTimestamp": 1737962436201,
+        "totalTime": 84
+      },
+      {
+        "startTimestamp": 1737962436210,
+        "endTimestamp": 1737962436235,
+        "totalTime": 25
+      },
+      {
+        "startTimestamp": 1737962448880,
+        "endTimestamp": 1737962448905,
+        "totalTime": 25
+      },
+      {
+        "startTimestamp": 1737962448905,
+        "endTimestamp": 1737962448914,
+        "totalTime": 9
+      },
+      {
+        "startTimestamp": 1737962662501,
+        "endTimestamp": 1737962662520,
+        "totalTime": 19
+      },
+      {
+        "startTimestamp": 1737962662528,
+        "endTimestamp": 1737962662541,
+        "totalTime": 13
+      }
+    ],
+    "aiOverviewPageView": [
+      {
+        "type": "aiOverview",
+        "pageId": "1",
+        "time": {
+          "startTimestamp": 1737962359016,
+          "endTimestamp": 1737962360221,
+          "totalTime": 1205
+        },
+        "hasScrolledToBottom": false
+      },
+      {
+        "type": "aiOverview",
+        "pageId": "1",
+        "time": {
+          "startTimestamp": 1737962443080,
+          "endTimestamp": 1737962447717,
+          "totalTime": 4637
+        },
+        "hasScrolledToBottom": false
+      }
+    ],
+    "referencePageClicks": 1,
+    "searchResultsPageView": [
+      {
+        "type": "search",
+        "pageId": "searchresult_1",
+        "time": {
+          "startTimestamp": 1737962382820,
+          "endTimestamp": 1737962386867,
+          "totalTime": 4047
+        },
+        "hasScrolledToBottom": false
+      },
+      {
+        "type": "search",
+        "pageId": "searchresult_10",
+        "time": {
+          "startTimestamp": 1737962419398,
+          "endTimestamp": 1737962422367,
+          "totalTime": 2969
+        },
+        "hasScrolledToBottom": false
+      }
+    ]
+  },
+  {
+    "userId": "test 2",
+    "pageType": "1",
+    "responses": [
+      {
+        "question": "Please enter your Prolific ID.",
+        "answer": "test 2",
+        "timestamp": "2025-01-27T07:25:08.169Z"
+      },
+      {
+        "question": "[INSERT TEXT]",
+        "answer": "Choice2",
+        "timestamp": "2025-01-27T07:25:13.786Z"
+      },
+      {
+        "question": "[INSERT TEXT]",
+        "answer": "Choice2",
+        "timestamp": "2025-01-27T07:25:13.786Z"
+      },
+      {
+        "question": "Why?",
+        "answer": "http://localhost:3000/",
+        "timestamp": "2025-01-27T07:25:13.786Z"
+      }
+    ],
+    "openScrollTimes": [],
+    "hasScrolledToBottom": false,
+    "aiOverviewHoverTimes": [
+      {
+        "startTimestamp": 1737962716481,
+        "endTimestamp": 1737962716619,
+        "totalTime": 138
+      },
+      {
+        "startTimestamp": 1737962718299,
+        "endTimestamp": 1737962722388,
+        "totalTime": 4089
+      },
+      {
+        "startTimestamp": 1737962723682,
+        "endTimestamp": 1737962723716,
+        "totalTime": 34
+      }
+    ],
+    "searchResultsHoverTimes": [
+      {
+        "startTimestamp": 1737962716628,
+        "endTimestamp": 1737962717264,
+        "totalTime": 636
+      },
+      {
+        "startTimestamp": 1737962717279,
+        "endTimestamp": 1737962718041,
+        "totalTime": 762
+      },
+      {
+        "startTimestamp": 1737962718049,
+        "endTimestamp": 1737962718091,
+        "totalTime": 42
+      },
+      {
+        "startTimestamp": 1737962718159,
+        "endTimestamp": 1737962718282,
+        "totalTime": 123
+      },
+      {
+        "startTimestamp": 1737962722420,
+        "endTimestamp": 1737962723041,
+        "totalTime": 621
+      },
+      {
+        "startTimestamp": 1737962723041,
+        "endTimestamp": 1737962723367,
+        "totalTime": 326
+      },
+      {
+        "startTimestamp": 1737962723367,
+        "endTimestamp": 1737962723633,
+        "totalTime": 266
+      },
+      {
+        "startTimestamp": 1737962723633,
+        "endTimestamp": 1737962723674,
+        "totalTime": 41
+      }
+    ],
+    "aiOverviewPageView": [],
+    "referencePageClicks": 0,
+    "searchResultsPageView": []
+  },
+  {
+    "userId": "x",
+    "pageType": "1",
+    "responses": [
+      {
+        "question": "Please enter your Prolific ID.",
+        "answer": "x",
+        "timestamp": "2025-01-27T07:25:30.548Z"
+      },
+      {
+        "question": "[INSERT TEXT]",
+        "answer": "Choice2",
+        "timestamp": "2025-01-27T07:25:36.453Z"
+      },
+      {
+        "question": "[INSERT TEXT]",
+        "answer": "Choice3",
+        "timestamp": "2025-01-27T07:25:36.453Z"
+      },
+      {
+        "question": "Why?",
+        "answer": "xf",
+        "timestamp": "2025-01-27T07:25:36.453Z"
+      }
+    ],
+    "openScrollTimes": [
+      {
+        "startTimestamp": 1737962737166,
+        "endTimestamp": 1737962739449,
+        "totalTime": 2283
+      }
+    ],
+    "hasScrolledToBottom": true,
+    "aiOverviewHoverTimes": [
+      {
+        "startTimestamp": 1737962737168,
+        "endTimestamp": 1737962737958,
+        "totalTime": 790
+      },
+      {
+        "startTimestamp": 1737962738299,
+        "endTimestamp": 1737962739038,
+        "totalTime": 739
+      },
+      {
+        "startTimestamp": 1737962740049,
+        "endTimestamp": 1737962741183,
+        "totalTime": 1134
+      }
+    ],
+    "searchResultsHoverTimes": [
+      {
+        "startTimestamp": 1737962737983,
+        "endTimestamp": 1737962738282,
+        "totalTime": 299
+      },
+      {
+        "startTimestamp": 1737962739063,
+        "endTimestamp": 1737962739139,
+        "totalTime": 76
+      },
+      {
+        "startTimestamp": 1737962739866,
+        "endTimestamp": 1737962739941,
+        "totalTime": 75
+      },
+      {
+        "startTimestamp": 1737962739949,
+        "endTimestamp": 1737962739999,
+        "totalTime": 50
+      }
+    ],
+    "aiOverviewPageView": [],
+    "referencePageClicks": 0,
+    "searchResultsPageView": []
+  },
+  {
+    "userId": "e",
+    "pageType": "1",
+    "responses": [
+      {
+        "question": "Please enter your Prolific ID.",
+        "answer": "e",
+        "timestamp": "2025-01-27T07:25:45.703Z"
+      },
+      {
+        "question": "[INSERT TEXT]",
+        "answer": "Choice3",
+        "timestamp": "2025-01-27T07:25:48.484Z"
+      },
+      {
+        "question": "[INSERT TEXT]",
+        "answer": "Choice3",
+        "timestamp": "2025-01-27T07:25:48.484Z"
+      },
+      {
+        "question": "Why?",
+        "answer": "d",
+        "timestamp": "2025-01-27T07:25:48.484Z"
+      }
+    ],
+    "openScrollTimes": [
+      {
+        "startTimestamp": 1737962749357,
+        "endTimestamp": 1737962778557,
+        "totalTime": 29200
+      }
+    ],
+    "hasScrolledToBottom": true,
+    "aiOverviewHoverTimes": [
+      {
+        "startTimestamp": 1737962749359,
+        "endTimestamp": 1737962749866,
+        "totalTime": 507
+      },
+      {
+        "startTimestamp": 1737962777196,
+        "endTimestamp": 1737962777287,
+        "totalTime": 91
+      },
+      {
+        "startTimestamp": 1737962781516,
+        "endTimestamp": 1737962781850,
+        "totalTime": 334
+      },
+      {
+        "startTimestamp": 1737962798396,
+        "endTimestamp": 1737962798446,
+        "totalTime": 50
+      },
+      {
+        "startTimestamp": 1737962799479,
+        "endTimestamp": 1737962799496,
+        "totalTime": 17
+      },
+      {
+        "startTimestamp": 1737962800795,
+        "endTimestamp": 1737962800837,
+        "totalTime": 42
+      },
+      {
+        "startTimestamp": 1737962800888,
+        "endTimestamp": 1737962800989,
+        "totalTime": 101
+      },
+      {
+        "startTimestamp": 1737962801283,
+        "endTimestamp": 1737962801900,
+        "totalTime": 617
+      },
+      {
+        "startTimestamp": 1737962802242,
+        "endTimestamp": 1737962802731,
+        "totalTime": 489
+      },
+      {
+        "startTimestamp": 1737962805167,
+        "endTimestamp": 1737962806080,
+        "totalTime": 913
+      },
+      {
+        "startTimestamp": 1737962806142,
+        "endTimestamp": 1737962807567,
+        "totalTime": 1425
+      },
+      {
+        "startTimestamp": 1737962807633,
+        "endTimestamp": 1737962808491,
+        "totalTime": 858
+      },
+      {
+        "startTimestamp": 1737962808583,
+        "endTimestamp": 1737962809805,
+        "totalTime": 1222
+      },
+      {
+        "startTimestamp": 1737962811419,
+        "endTimestamp": 1737962811427,
+        "totalTime": 8
+      },
+      {
+        "startTimestamp": 1737962818350,
+        "endTimestamp": 1737962818796,
+        "totalTime": 446
+      },
+      {
+        "startTimestamp": 1737962869545,
+        "endTimestamp": 1737962869545,
+        "totalTime": 0
+      },
+      {
+        "startTimestamp": 1737962906096,
+        "endTimestamp": 1737962906096,
+        "totalTime": 0
+      },
+      {
+        "startTimestamp": 1737962910026,
+        "endTimestamp": 1737962910051,
+        "totalTime": 25
+      },
+      {
+        "startTimestamp": 1737962910888,
+        "endTimestamp": 1737962910905,
+        "totalTime": 17
+      },
+      {
+        "startTimestamp": 1737962913300,
+        "endTimestamp": 1737962913563,
+        "totalTime": 263
+      },
+      {
+        "startTimestamp": 1737962928538,
+        "endTimestamp": 1737962928572,
+        "totalTime": 34
+      },
+      {
+        "startTimestamp": 1737962932655,
+        "endTimestamp": 1737962935034,
+        "totalTime": 2379
+      }
+    ],
+    "searchResultsHoverTimes": [
+      {
+        "startTimestamp": 1737962750149,
+        "endTimestamp": 1737962750274,
+        "totalTime": 125
+      },
+      {
+        "startTimestamp": 1737962778141,
+        "endTimestamp": 1737962778908,
+        "totalTime": 767
+      },
+      {
+        "startTimestamp": 1737962778908,
+        "endTimestamp": 1737962779207,
+        "totalTime": 299
+      },
+      {
+        "startTimestamp": 1737962779508,
+        "endTimestamp": 1737962780250,
+        "totalTime": 742
+      },
+      {
+        "startTimestamp": 1737962780250,
+        "endTimestamp": 1737962780575,
+        "totalTime": 325
+      },
+      {
+        "startTimestamp": 1737962809863,
+        "endTimestamp": 1737962810292,
+        "totalTime": 429
+      },
+      {
+        "startTimestamp": 1737962811518,
+        "endTimestamp": 1737962812406,
+        "totalTime": 888
+      },
+      {
+        "startTimestamp": 1737962814700,
+        "endTimestamp": 1737962815258,
+        "totalTime": 558
+      },
+      {
+        "startTimestamp": 1737962815258,
+        "endTimestamp": 1737962816117,
+        "totalTime": 859
+      },
+      {
+        "startTimestamp": 1737962818272,
+        "endTimestamp": 1737962818308,
+        "totalTime": 36
+      },
+      {
+        "startTimestamp": 1737962818954,
+        "endTimestamp": 1737962819471,
+        "totalTime": 517
+      },
+      {
+        "startTimestamp": 1737962819471,
+        "endTimestamp": 1737962819983,
+        "totalTime": 512
+      },
+      {
+        "startTimestamp": 1737962819983,
+        "endTimestamp": 1737962820255,
+        "totalTime": 272
+      },
+      {
+        "startTimestamp": 1737962820255,
+        "endTimestamp": 1737962820940,
+        "totalTime": 685
+      },
+      {
+        "startTimestamp": 1737962820940,
+        "endTimestamp": 1737962821066,
+        "totalTime": 126
+      },
+      {
+        "startTimestamp": 1737962821359,
+        "endTimestamp": 1737962821393,
+        "totalTime": 34
+      },
+      {
+        "startTimestamp": 1737962821426,
+        "endTimestamp": 1737962821875,
+        "totalTime": 449
+      },
+      {
+        "startTimestamp": 1737962821875,
+        "endTimestamp": 1737962821975,
+        "totalTime": 100
+      },
+      {
+        "startTimestamp": 1737962822650,
+        "endTimestamp": 1737962823747,
+        "totalTime": 1097
+      },
+      {
+        "startTimestamp": 1737962823747,
+        "endTimestamp": 1737962823754,
+        "totalTime": 7
+      },
+      {
+        "startTimestamp": 1737962823754,
+        "endTimestamp": 1737962823764,
+        "totalTime": 10
+      },
+      {
+        "startTimestamp": 1737962862233,
+        "endTimestamp": 1737962862834,
+        "totalTime": 601
+      },
+      {
+        "startTimestamp": 1737962907855,
+        "endTimestamp": 1737962907880,
+        "totalTime": 25
+      },
+      {
+        "startTimestamp": 1737962907888,
+        "endTimestamp": 1737962907966,
+        "totalTime": 78
+      },
+      {
+        "startTimestamp": 1737962907966,
+        "endTimestamp": 1737962908356,
+        "totalTime": 390
+      },
+      {
+        "startTimestamp": 1737962908356,
+        "endTimestamp": 1737962908819,
+        "totalTime": 463
+      },
+      {
+        "startTimestamp": 1737962909287,
+        "endTimestamp": 1737962910001,
+        "totalTime": 714
+      },
+      {
+        "startTimestamp": 1737962910009,
+        "endTimestamp": 1737962910026,
+        "totalTime": 17
+      },
+      {
+        "startTimestamp": 1737962912676,
+        "endTimestamp": 1737962912843,
+        "totalTime": 167
+      },
+      {
+        "startTimestamp": 1737962912859,
+        "endTimestamp": 1737962912917,
+        "totalTime": 58
+      },
+      {
+        "startTimestamp": 1737962928572,
+        "endTimestamp": 1737962928597,
+        "totalTime": 25
+      },
+      {
+        "startTimestamp": 1737962928597,
+        "endTimestamp": 1737962928839,
+        "totalTime": 242
+      },
+      {
+        "startTimestamp": 1737962928839,
+        "endTimestamp": 1737962928847,
+        "totalTime": 8
+      },
+      {
+        "startTimestamp": 1737962929134,
+        "endTimestamp": 1737962929175,
+        "totalTime": 41
+      },
+      {
+        "startTimestamp": 1737962929175,
+        "endTimestamp": 1737962929209,
+        "totalTime": 34
+      },
+      {
+        "startTimestamp": 1737962929209,
+        "endTimestamp": 1737962929385,
+        "totalTime": 176
+      },
+      {
+        "startTimestamp": 1737962929462,
+        "endTimestamp": 1737962929943,
+        "totalTime": 481
+      },
+      {
+        "startTimestamp": 1737962929959,
+        "endTimestamp": 1737962930609,
+        "totalTime": 650
+      },
+      {
+        "startTimestamp": 1737962930609,
+        "endTimestamp": 1737962931226,
+        "totalTime": 617
+      },
+      {
+        "startTimestamp": 1737962931226,
+        "endTimestamp": 1737962931333,
+        "totalTime": 107
+      },
+      {
+        "startTimestamp": 1737962931349,
+        "endTimestamp": 1737962932218,
+        "totalTime": 869
+      },
+      {
+        "startTimestamp": 1737962932218,
+        "endTimestamp": 1737962932539,
+        "totalTime": 321
+      },
+      {
+        "startTimestamp": 1737962932539,
+        "endTimestamp": 1737962932590,
+        "totalTime": 51
+      },
+      {
+        "startTimestamp": 1737962932598,
+        "endTimestamp": 1737962932630,
+        "totalTime": 32
+      },
+      {
+        "startTimestamp": 1737962932630,
+        "endTimestamp": 1737962932655,
+        "totalTime": 25
+      },
+      {
+        "startTimestamp": 1737962935035,
+        "endTimestamp": 1737962935446,
+        "totalTime": 411
+      },
+      {
+        "startTimestamp": 1737962935446,
+        "endTimestamp": 1737962935486,
+        "totalTime": 40
+      },
+      {
+        "startTimestamp": 1737962935486,
+        "endTimestamp": 1737962935510,
+        "totalTime": 24
+      },
+      {
+        "startTimestamp": 1737962951301,
+        "endTimestamp": 1737962952044,
+        "totalTime": 743
+      },
+      {
+        "startTimestamp": 1737962952044,
+        "endTimestamp": 1737962952193,
+        "totalTime": 149
+      },
+      {
+        "startTimestamp": 1737962953701,
+        "endTimestamp": 1737962954515,
+        "totalTime": 814
+      },
+      {
+        "startTimestamp": 1737962954515,
+        "endTimestamp": 1737962954586,
+        "totalTime": 71
+      },
+      {
+        "startTimestamp": 1737962954594,
+        "endTimestamp": 1737962954602,
+        "totalTime": 8
+      },
+      {
+        "startTimestamp": 1737962956472,
+        "endTimestamp": 1737962956620,
+        "totalTime": 148
+      },
+      {
+        "startTimestamp": 1737962957986,
+        "endTimestamp": 1737962958263,
+        "totalTime": 277
+      },
+      {
+        "startTimestamp": 1737962959647,
+        "endTimestamp": 1737962959689,
+        "totalTime": 42
+      },
+      {
+        "startTimestamp": 1737962959722,
+        "endTimestamp": 1737962959747,
+        "totalTime": 25
+      },
+      {
+        "startTimestamp": 1737962963526,
+        "endTimestamp": 1737962964072,
+        "totalTime": 546
+      },
+      {
+        "startTimestamp": 1737962965671,
+        "endTimestamp": 1737962965964,
+        "totalTime": 293
+      },
+      {
+        "startTimestamp": 1737962966905,
+        "endTimestamp": 1737962967493,
+        "totalTime": 588
+      },
+      {
+        "startTimestamp": 1737962967935,
+        "endTimestamp": 1737962968118,
+        "totalTime": 183
+      },
+      {
+        "startTimestamp": 1737962968118,
+        "endTimestamp": 1737962968319,
+        "totalTime": 201
+      },
+      {
+        "startTimestamp": 1737962969885,
+        "endTimestamp": 1737962969926,
+        "totalTime": 41
+      },
+      {
+        "startTimestamp": 1737962969934,
+        "endTimestamp": 1737962970199,
+        "totalTime": 265
+      }
+    ],
+    "aiOverviewPageView": [
+      {
+        "type": "aiOverview",
+        "pageId": "1",
+        "time": {
+          "startTimestamp": 1737962913556,
+          "endTimestamp": 1737962927884,
+          "totalTime": 14328
+        },
+        "hasScrolledToBottom": false
+      }
+    ],
+    "referencePageClicks": 1,
+    "searchResultsPageView": [
+      {
+        "type": "search",
+        "pageId": "searchresult_1",
+        "time": {
+          "startTimestamp": 1737962810291,
+          "endTimestamp": 1737962811246,
+          "totalTime": 955
+        },
+        "hasScrolledToBottom": false
+      },
+      {
+        "type": "search",
+        "pageId": "searchresult_1",
+        "time": {
+          "startTimestamp": 1737962812405,
+          "endTimestamp": 1737962814526,
+          "totalTime": 2121
+        },
+        "hasScrolledToBottom": false
+      },
+      {
+        "type": "search",
+        "pageId": "searchresult_7",
+        "time": {
+          "startTimestamp": 1737962816116,
+          "endTimestamp": 1737962818126,
+          "totalTime": 2010
+        },
+        "hasScrolledToBottom": false
+      }
+    ]
+  },
+  {
+    "userId": "dd",
+    "pageType": "1",
+    "responses": [
+      {
+        "question": "Please enter your Prolific ID.",
+        "answer": "dd",
+        "timestamp": "2025-01-27T07:29:44.169Z"
+      },
+      {
+        "question": "[INSERT TEXT]",
+        "answer": "Choice3",
+        "timestamp": "2025-01-27T07:29:47.946Z"
+      },
+      {
+        "question": "[INSERT TEXT]",
+        "answer": "Choice3",
+        "timestamp": "2025-01-27T07:29:47.946Z"
+      },
+      {
+        "question": "Why?",
+        "answer": "dwd",
+        "timestamp": "2025-01-27T07:29:47.946Z"
+      }
+    ],
+    "openScrollTimes": [],
+    "hasScrolledToBottom": false,
+    "aiOverviewHoverTimes": [
+      {
+        "startTimestamp": 1737962989305,
+        "endTimestamp": 1737962989482,
+        "totalTime": 177
+      },
+      {
+        "startTimestamp": 1737963007646,
+        "endTimestamp": 1737963007669,
+        "totalTime": 23
+      },
+      {
+        "startTimestamp": 1737963010235,
+        "endTimestamp": 1737963010394,
+        "totalTime": 159
+      },
+      {
+        "startTimestamp": 1737963036585,
+        "endTimestamp": 1737963037186,
+        "totalTime": 601
+      },
+      {
+        "startTimestamp": 1737963037618,
+        "endTimestamp": 1737963037735,
+        "totalTime": 117
+      }
+    ],
+    "searchResultsHoverTimes": [
+      {
+        "startTimestamp": 1737962989489,
+        "endTimestamp": 1737962989705,
+        "totalTime": 216
+      },
+      {
+        "startTimestamp": 1737962989731,
+        "endTimestamp": 1737962990427,
+        "totalTime": 696
+      },
+      {
+        "startTimestamp": 1737962990427,
+        "endTimestamp": 1737962990526,
+        "totalTime": 99
+      },
+      {
+        "startTimestamp": 1737963007623,
+        "endTimestamp": 1737963007639,
+        "totalTime": 16
+      },
+      {
+        "startTimestamp": 1737963007639,
+        "endTimestamp": 1737963007646,
+        "totalTime": 7
+      },
+      {
+        "startTimestamp": 1737963010410,
+        "endTimestamp": 1737963010419,
+        "totalTime": 9
+      },
+      {
+        "startTimestamp": 1737963010419,
+        "endTimestamp": 1737963010435,
+        "totalTime": 16
+      },
+      {
+        "startTimestamp": 1737963010435,
+        "endTimestamp": 1737963010443,
+        "totalTime": 8
+      },
+      {
+        "startTimestamp": 1737963030448,
+        "endTimestamp": 1737963030456,
+        "totalTime": 8
+      },
+      {
+        "startTimestamp": 1737963030456,
+        "endTimestamp": 1737963030698,
+        "totalTime": 242
+      },
+      {
+        "startTimestamp": 1737963030706,
+        "endTimestamp": 1737963031056,
+        "totalTime": 350
+      },
+      {
+        "startTimestamp": 1737963031073,
+        "endTimestamp": 1737963031560,
+        "totalTime": 487
+      },
+      {
+        "startTimestamp": 1737963032664,
+        "endTimestamp": 1737963033228,
+        "totalTime": 564
+      },
+      {
+        "startTimestamp": 1737963033228,
+        "endTimestamp": 1737963033302,
+        "totalTime": 74
+      },
+      {
+        "startTimestamp": 1737963037233,
+        "endTimestamp": 1737963037595,
+        "totalTime": 362
+      },
+      {
+        "startTimestamp": 1737963038494,
+        "endTimestamp": 1737963038519,
+        "totalTime": 25
+      },
+      {
+        "startTimestamp": 1737963038519,
+        "endTimestamp": 1737963038544,
+        "totalTime": 25
+      },
+      {
+        "startTimestamp": 1737963043419,
+        "endTimestamp": 1737963043470,
+        "totalTime": 51
+      },
+      {
+        "startTimestamp": 1737963043470,
+        "endTimestamp": 1737963043482,
+        "totalTime": 12
+      },
+      {
+        "startTimestamp": 1737963045949,
+        "endTimestamp": 1737963045988,
+        "totalTime": 39
+      },
+      {
+        "startTimestamp": 1737963045988,
+        "endTimestamp": 1737963046008,
+        "totalTime": 20
+      }
+    ],
+    "aiOverviewPageView": [],
+    "referencePageClicks": 0,
+    "searchResultsPageView": []
+  },
+  {
+    "userId": "xsaxsa",
+    "pageType": "1",
+    "responses": [
+      {
+        "question": "Please enter your Prolific ID.",
+        "answer": "xsaxsa",
+        "timestamp": "2025-01-27T07:30:54.263Z"
+      },
+      {
+        "question": "[INSERT TEXT]",
+        "answer": "Choice1",
+        "timestamp": "2025-01-27T07:31:03.345Z"
+      },
+      {
+        "question": "[INSERT TEXT]",
+        "answer": "Choice3",
+        "timestamp": "2025-01-27T07:31:03.345Z"
+      },
+      {
+        "question": "Why?",
+        "answer": "xasxsx",
+        "timestamp": "2025-01-27T07:31:03.345Z"
+      }
+    ],
+    "openScrollTimes": [
+      {
+        "startTimestamp": 1737963066315,
+        "endTimestamp": 1737963074101,
+        "totalTime": 7786
+      }
+    ],
+    "hasScrolledToBottom": true,
+    "aiOverviewHoverTimes": [
+      {
+        "startTimestamp": 1737963066320,
+        "endTimestamp": 1737963066410,
+        "totalTime": 90
+      },
+      {
+        "startTimestamp": 1737963105632,
+        "endTimestamp": 1737963105657,
+        "totalTime": 25
+      },
+      {
+        "startTimestamp": 1737963106119,
+        "endTimestamp": 1737963106174,
+        "totalTime": 55
+      },
+      {
+        "startTimestamp": 1737963107132,
+        "endTimestamp": 1737963107391,
+        "totalTime": 259
+      }
+    ],
+    "searchResultsHoverTimes": [
+      {
+        "startTimestamp": 1737963066427,
+        "endTimestamp": 1737963066468,
+        "totalTime": 41
+      },
+      {
+        "startTimestamp": 1737963066477,
+        "endTimestamp": 1737963066535,
+        "totalTime": 58
+      },
+      {
+        "startTimestamp": 1737963066552,
+        "endTimestamp": 1737963066994,
+        "totalTime": 442
+      },
+      {
+        "startTimestamp": 1737963067345,
+        "endTimestamp": 1737963067908,
+        "totalTime": 563
+      },
+      {
+        "startTimestamp": 1737963073757,
+        "endTimestamp": 1737963073989,
+        "totalTime": 232
+      },
+      {
+        "startTimestamp": 1737963073998,
+        "endTimestamp": 1737963074009,
+        "totalTime": 11
+      },
+      {
+        "startTimestamp": 1737963074018,
+        "endTimestamp": 1737963074026,
+        "totalTime": 8
+      },
+      {
+        "startTimestamp": 1737963074026,
+        "endTimestamp": 1737963074040,
+        "totalTime": 14
+      },
+      {
+        "startTimestamp": 1737963074040,
+        "endTimestamp": 1737963074052,
+        "totalTime": 12
+      },
+      {
+        "startTimestamp": 1737963074052,
+        "endTimestamp": 1737963074060,
+        "totalTime": 8
+      },
+      {
+        "startTimestamp": 1737963074060,
+        "endTimestamp": 1737963074241,
+        "totalTime": 181
+      },
+      {
+        "startTimestamp": 1737963074241,
+        "endTimestamp": 1737963090478,
+        "totalTime": 16237
+      },
+      {
+        "startTimestamp": 1737963090494,
+        "endTimestamp": 1737963090775,
+        "totalTime": 281
+      },
+      {
+        "startTimestamp": 1737963090857,
+        "endTimestamp": 1737963091286,
+        "totalTime": 429
+      },
+      {
+        "startTimestamp": 1737963106104,
+        "endTimestamp": 1737963106112,
+        "totalTime": 8
+      },
+      {
+        "startTimestamp": 1737963114974,
+        "endTimestamp": 1737963115219,
+        "totalTime": 245
+      }
+    ],
+    "aiOverviewPageView": [],
+    "referencePageClicks": 0,
+    "searchResultsPageView": [
+      {
+        "type": "search",
+        "pageId": "searchresult_9",
+        "time": {
+          "startTimestamp": 1737963091285,
+          "endTimestamp": 1737963105585,
+          "totalTime": 14300
+        },
+        "hasScrolledToBottom": false
+      }
+    ]
+  },
+  {
+    "userId": "nnn",
+    "pageType": "1",
+    "responses": [
+      {
+        "question": "Please enter your Prolific ID.",
+        "answer": "nnn",
+        "timestamp": "2025-01-27T07:32:38.624Z"
+      },
+      {
+        "question": "[INSERT TEXT]",
+        "answer": "Choice3",
+        "timestamp": "2025-01-27T07:33:16.245Z"
+      },
+      {
+        "question": "[INSERT TEXT]",
+        "answer": "Choice2",
+        "timestamp": "2025-01-27T07:33:16.245Z"
+      },
+      {
+        "question": "Why?",
+        "answer": "lll",
+        "timestamp": "2025-01-27T07:33:16.245Z"
+      }
+    ],
+    "openScrollTimes": [
+      {
+        "startTimestamp": 1737963197440,
+        "endTimestamp": 1737963200028,
+        "totalTime": 2588
+      }
+    ],
+    "hasScrolledToBottom": true,
+    "aiOverviewHoverTimes": [
+      {
+        "startTimestamp": 1737963197443,
+        "endTimestamp": 1737963197624,
+        "totalTime": 181
+      },
+      {
+        "startTimestamp": 1737963979926,
+        "endTimestamp": 1737963980297,
+        "totalTime": 371
+      },
+      {
+        "startTimestamp": 1737964196534,
+        "endTimestamp": 1737964196584,
+        "totalTime": 50
+      },
+      {
+        "startTimestamp": 1737964330451,
+        "endTimestamp": 1737964330468,
+        "totalTime": 17
+      },
+      {
+        "startTimestamp": 1737964330752,
+        "endTimestamp": 1737964330767,
+        "totalTime": 15
+      },
+      {
+        "startTimestamp": 1737964582427,
+        "endTimestamp": 1737964582435,
+        "totalTime": 8
+      }
+    ],
+    "searchResultsHoverTimes": [
+      {
+        "startTimestamp": 1737963197633,
+        "endTimestamp": 1737963198133,
+        "totalTime": 500
+      },
+      {
+        "startTimestamp": 1737963198937,
+        "endTimestamp": 1737963199348,
+        "totalTime": 411
+      },
+      {
+        "startTimestamp": 1737963199689,
+        "endTimestamp": 1737963200313,
+        "totalTime": 624
+      },
+      {
+        "startTimestamp": 1737963200313,
+        "endTimestamp": 1737963200879,
+        "totalTime": 566
+      },
+      {
+        "startTimestamp": 1737963200879,
+        "endTimestamp": 1737963201412,
+        "totalTime": 533
+      },
+      {
+        "startTimestamp": 1737963202378,
+        "endTimestamp": 1737963202478,
+        "totalTime": 100
+      },
+      {
+        "startTimestamp": 1737963202487,
+        "endTimestamp": 1737963202752,
+        "totalTime": 265
+      },
+      {
+        "startTimestamp": 1737963205024,
+        "endTimestamp": 1737963205060,
+        "totalTime": 36
+      },
+      {
+        "startTimestamp": 1737963228033,
+        "endTimestamp": 1737963228058,
+        "totalTime": 25
+      },
+      {
+        "startTimestamp": 1737963228058,
+        "endTimestamp": 1737963228062,
+        "totalTime": 4
+      },
+      {
+        "startTimestamp": 1737963979522,
+        "endTimestamp": 1737963979546,
+        "totalTime": 24
+      },
+      {
+        "startTimestamp": 1737963979546,
+        "endTimestamp": 1737963979570,
+        "totalTime": 24
+      },
+      {
+        "startTimestamp": 1737963979570,
+        "endTimestamp": 1737963979617,
+        "totalTime": 47
+      },
+      {
+        "startTimestamp": 1737963979684,
+        "endTimestamp": 1737963979893,
+        "totalTime": 209
+      },
+      {
+        "startTimestamp": 1737963979900,
+        "endTimestamp": 1737963979917,
+        "totalTime": 17
+      },
+      {
+        "startTimestamp": 1737963980313,
+        "endTimestamp": 1737963980322,
+        "totalTime": 9
+      },
+      {
+        "startTimestamp": 1737964128114,
+        "endTimestamp": 1737964128135,
+        "totalTime": 21
+      },
+      {
+        "startTimestamp": 1737964128142,
+        "endTimestamp": 1737964129002,
+        "totalTime": 860
+      },
+      {
+        "startTimestamp": 1737964129159,
+        "endTimestamp": 1737964129176,
+        "totalTime": 17
+      },
+      {
+        "startTimestamp": 1737964129176,
+        "endTimestamp": 1737964129184,
+        "totalTime": 8
+      },
+      {
+        "startTimestamp": 1737964134364,
+        "endTimestamp": 1737964134389,
+        "totalTime": 25
+      },
+      {
+        "startTimestamp": 1737964134389,
+        "endTimestamp": 1737964134395,
+        "totalTime": 6
+      },
+      {
+        "startTimestamp": 1737964196397,
+        "endTimestamp": 1737964196409,
+        "totalTime": 12
+      },
+      {
+        "startTimestamp": 1737964196409,
+        "endTimestamp": 1737964196434,
+        "totalTime": 25
+      },
+      {
+        "startTimestamp": 1737964196434,
+        "endTimestamp": 1737964196459,
+        "totalTime": 25
+      },
+      {
+        "startTimestamp": 1737964196459,
+        "endTimestamp": 1737964196476,
+        "totalTime": 17
+      },
+      {
+        "startTimestamp": 1737964196668,
+        "endTimestamp": 1737964196751,
+        "totalTime": 83
+      },
+      {
+        "startTimestamp": 1737964196759,
+        "endTimestamp": 1737964196784,
+        "totalTime": 25
+      },
+      {
+        "startTimestamp": 1737964196792,
+        "endTimestamp": 1737964196801,
+        "totalTime": 9
+      },
+      {
+        "startTimestamp": 1737964196801,
+        "endTimestamp": 1737964196809,
+        "totalTime": 8
+      },
+      {
+        "startTimestamp": 1737964200883,
+        "endTimestamp": 1737964201134,
+        "totalTime": 251
+      },
+      {
+        "startTimestamp": 1737964330026,
+        "endTimestamp": 1737964330042,
+        "totalTime": 16
+      },
+      {
+        "startTimestamp": 1737964330042,
+        "endTimestamp": 1737964330059,
+        "totalTime": 17
+      },
+      {
+        "startTimestamp": 1737964330070,
+        "endTimestamp": 1737964330176,
+        "totalTime": 106
+      },
+      {
+        "startTimestamp": 1737964330201,
+        "endTimestamp": 1737964330243,
+        "totalTime": 42
+      },
+      {
+        "startTimestamp": 1737964330776,
+        "endTimestamp": 1737964330784,
+        "totalTime": 8
+      },
+      {
+        "startTimestamp": 1737964330784,
+        "endTimestamp": 1737964330792,
+        "totalTime": 8
+      },
+      {
+        "startTimestamp": 1737964330792,
+        "endTimestamp": 1737964330798,
+        "totalTime": 6
+      },
+      {
+        "startTimestamp": 1737964582380,
+        "endTimestamp": 1737964582396,
+        "totalTime": 16
+      },
+      {
+        "startTimestamp": 1737964582396,
+        "endTimestamp": 1737964582405,
+        "totalTime": 9
+      },
+      {
+        "startTimestamp": 1737964582405,
+        "endTimestamp": 1737964582415,
+        "totalTime": 10
+      }
+    ],
+    "aiOverviewPageView": [],
+    "referencePageClicks": 0,
+    "searchResultsPageView": []
+  },
+  {
+    "userId": "1",
+    "pageType": "1",
+    "responses": [
+      {
+        "answer": "1",
+        "timestamp": "2025-01-30T01:18:53.369Z"
+      },
+      {
+        "question": "In this study, you will be expected to perform a task. To assist you, you will use an experimental search engine that works like popular search engines such as Google or Bing. This experimental search engine retrieves information from a library of offline documents. You will be shown a search results page to review and can click on the links to view more information directly within the interface.",
+        "answer": "I understand the instructions above and am ready to continue.",
+        "timestamp": "2025-01-30T01:18:56.873Z"
+      },
+      {
+        "question": "You are only allowed to use the search tool provided here and should not use any external sources. You must remain within the study interface for the duration of the study.",
+        "answer": "I understand that I am only supposed to use the search tool provided to me here and no external sources.",
+        "timestamp": "2025-01-30T01:18:56.873Z"
+      },
+      {
+        "question": "You will be shown the task description on the next page. During the study, you can click the left sidebar to check the task and click the right sidebar to take notes.",
+        "answer": "I understand that I am only supposed to use the search tool provided to me here and no external sources.",
+        "timestamp": "2025-01-30T01:18:56.873Z"
+      },
+      {
+        "question": "What is your recommendation for the city of Bryn Bower regarding the Hallman Inc. proposal?",
+        "answer": "I think the city should approvel the proposal.",
+        "timestamp": "2025-01-30T01:19:08.139Z"
+      },
+      {
+        "question": "Why? List as many reasons as you can think of to support your decision. Use information from the search results your just read to support your arguments.",
+        "answer": "1",
+        "timestamp": "2025-01-30T01:19:08.139Z"
+      },
+      {
+        "question": "What is your recommendation for the city of Bryn Bower regarding the Hallman Inc. proposal?",
+        "answer": "I think the city should approvel the proposal.",
+        "timestamp": "2025-01-30T01:19:10.611Z"
+      },
+      {
+        "question": "Why? List as many reasons as you can think of to support your decision. Use information from the search results your just read to support your arguments.",
+        "answer": "1",
+        "timestamp": "2025-01-30T01:19:10.611Z"
+      }
+    ],
+    "openScrollTimes": [],
+    "hasScrolledToBottom": false,
+    "aiOverviewHoverTimes": [
+      {
+        "startTimestamp": 1738199938611,
+        "endTimestamp": 1738199939161,
+        "totalTime": 550
+      },
+      {
+        "startTimestamp": 1738199944207,
+        "endTimestamp": 1738199944257,
+        "totalTime": 50
+      }
+    ],
+    "searchResultsHoverTimes": [
+      {
+        "startTimestamp": 1738199938327,
+        "endTimestamp": 1738199938361,
+        "totalTime": 34
+      },
+      {
+        "startTimestamp": 1738199938369,
+        "endTimestamp": 1738199938594,
+        "totalTime": 225
+      },
+      {
+        "startTimestamp": 1738199939194,
+        "endTimestamp": 1738199939799,
+        "totalTime": 605
+      },
+      {
+        "startTimestamp": 1738199939799,
+        "endTimestamp": 1738199939915,
+        "totalTime": 116
+      },
+      {
+        "startTimestamp": 1738199939932,
+        "endTimestamp": 1738199940640,
+        "totalTime": 708
+      },
+      {
+        "startTimestamp": 1738199940640,
+        "endTimestamp": 1738199941027,
+        "totalTime": 387
+      },
+      {
+        "startTimestamp": 1738199941027,
+        "endTimestamp": 1738199941399,
+        "totalTime": 372
+      },
+      {
+        "startTimestamp": 1738199941399,
+        "endTimestamp": 1738199942144,
+        "totalTime": 745
+      }
+    ],
+    "aiOverviewPageView": [],
+    "referencePageClicks": 0,
+    "searchResultsPageView": [
+      {
+        "type": "search",
+        "pageId": "searchresult_7",
+        "time": {
+          "startTimestamp": 1738199942142,
+          "endTimestamp": 1738199944069,
+          "totalTime": 1927
+        },
+        "hasScrolledToBottom": true
+      }
+    ]
+  },
+  {
+    "userId": "2323",
+    "pageType": "1",
+    "responses": [
+      {
+        "answer": "2323",
+        "timestamp": "2025-01-30T01:34:42.823Z"
+      },
+      {
+        "question": "In this study, you will be expected to perform a task. To assist you, you will use an experimental search engine that works like popular search engines such as Google or Bing. This experimental search engine retrieves information from a library of offline documents. You will be shown a search results page to review and can click on the links to view more information directly within the interface.",
+        "answer": "I understand the instructions above and am ready to continue.",
+        "timestamp": "2025-01-30T01:34:46.022Z"
+      },
+      {
+        "question": "You are only allowed to use the search tool provided here and should not use any external sources. You must remain within the study interface for the duration of the study.",
+        "answer": "I understand that I am only supposed to use the search tool provided to me here and no external sources.",
+        "timestamp": "2025-01-30T01:34:46.022Z"
+      },
+      {
+        "question": "You will be shown the task description on the next page. During the study, you can click the left sidebar to check the task and click the right sidebar to take notes.",
+        "answer": "I understand that I am only supposed to use the search tool provided to me here and no external sources.",
+        "timestamp": "2025-01-30T01:34:46.022Z"
+      }
+    ],
+    "openScrollTimes": [],
+    "hasScrolledToBottom": false,
+    "aiOverviewHoverTimes": [],
+    "searchResultsHoverTimes": [],
+    "aiOverviewPageView": [],
+    "referencePageClicks": 0,
+    "searchResultsPageView": []
+  },
+  {
+    "userId": "12",
+    "pageType": "1",
+    "responses": [
+      {
+        "answer": "12",
+        "timestamp": "2025-01-30T01:46:54.486Z"
+      },
+      {
+        "question": "In this study, you will be expected to perform a task. To assist you, you will use an experimental search engine that works like popular search engines such as Google or Bing. This experimental search engine retrieves information from a library of offline documents. You will be shown a search results page to review and can click on the links to view more information directly within the interface.",
+        "answer": "I understand the instructions above and am ready to continue.",
+        "timestamp": "2025-01-30T01:46:57.808Z"
+      },
+      {
+        "question": "You are only allowed to use the search tool provided here and should not use any external sources. You must remain within the study interface for the duration of the study.",
+        "answer": "I understand that I am only supposed to use the search tool provided to me here and no external sources.",
+        "timestamp": "2025-01-30T01:46:57.808Z"
+      },
+      {
+        "question": "You will be shown the task description on the next page. During the study, you can click the left sidebar to check the task and click the right sidebar to take notes.",
+        "answer": "I understand that I am only supposed to use the search tool provided to me here and no external sources.",
+        "timestamp": "2025-01-30T01:46:57.808Z"
+      }
+    ],
+    "openScrollTimes": [],
+    "hasScrolledToBottom": false,
+    "aiOverviewHoverTimes": [],
+    "searchResultsHoverTimes": [],
+    "aiOverviewPageView": [],
+    "referencePageClicks": 0,
+    "searchResultsPageView": []
+  },
+  {
+    "userId": "dwdw",
+    "pageType": "1",
+    "responses": [
+      {
+        "answer": "dwdw",
+        "timestamp": "2025-01-30T01:50:26.205Z"
+      }
+    ],
+    "openScrollTimes": [],
+    "hasScrolledToBottom": false,
+    "aiOverviewHoverTimes": [],
+    "searchResultsHoverTimes": [],
+    "aiOverviewPageView": [],
+    "referencePageClicks": 0,
+    "searchResultsPageView": []
+  },
+  {
+    "userId": "333",
+    "pageType": "1",
+    "responses": [
+      {
+        "question": "Please enter your Prolific ID.",
+        "answer": "333",
+        "timestamp": "2025-01-30T02:09:52.662Z"
+      },
+      {
+        "question": "In this study, you will be expected to perform a task. To assist you, you will use an experimental search engine that works like popular search engines such as Google or Bing. This experimental search engine retrieves information from a library of offline documents. You will be shown a search results page to review and can click on the links to view more information directly within the interface.",
+        "answer": "I understand the instructions above and am ready to continue.",
+        "timestamp": "2025-01-30T02:09:57.561Z"
+      },
+      {
+        "question": "You are only allowed to use the search tool provided here and should not use any external sources. You must remain within the study interface for the duration of the study.",
+        "answer": "I understand that I am only supposed to use the search tool provided to me here and no external sources.",
+        "timestamp": "2025-01-30T02:09:57.561Z"
+      },
+      {
+        "question": "You will be shown the task description on the next page. During the study, you can click the left sidebar to check the task and click the right sidebar to take notes.",
+        "answer": "I understand that I am only supposed to use the search tool provided to me here and no external sources.",
+        "timestamp": "2025-01-30T02:09:57.561Z"
+      },
+      {
+        "question": "What is your recommendation for the city of Bryn Bower regarding the Hallman Inc. proposal?",
+        "answer": "I think the city should approvel the proposal.",
+        "timestamp": "2025-01-30T02:10:11.193Z"
+      },
+      {
+        "question": "Why? List as many reasons as you can think of to support your decision. Use information from the search results your just read to support your arguments.",
+        "answer": "123",
+        "timestamp": "2025-01-30T02:10:11.193Z"
+      },
+      {
+        "question": "What is your recommendation for the city of Bryn Bower regarding the Hallman Inc. proposal?",
+        "answer": "I think the city should reject the proposal.",
+        "timestamp": "2025-01-30T02:10:14.437Z"
+      },
+      {
+        "question": "Why? List as many reasons as you can think of to support your decision. Use information from the search results your just read to support your arguments.",
+        "answer": "123",
+        "timestamp": "2025-01-30T02:10:14.437Z"
+      }
+    ],
+    "openScrollTimes": [],
+    "hasScrolledToBottom": false,
+    "aiOverviewHoverTimes": [
+      {
+        "startTimestamp": 1738203002692,
+        "endTimestamp": 1738203002757,
+        "totalTime": 65
+      }
+    ],
+    "searchResultsHoverTimes": [
+      {
+        "startTimestamp": 1738202998846,
+        "endTimestamp": 1738202998946,
+        "totalTime": 100
+      },
+      {
+        "startTimestamp": 1738202999024,
+        "endTimestamp": 1738202999074,
+        "totalTime": 50
+      },
+      {
+        "startTimestamp": 1738202999074,
+        "endTimestamp": 1738202999213,
+        "totalTime": 139
+      },
+      {
+        "startTimestamp": 1738202999213,
+        "endTimestamp": 1738202999613,
+        "totalTime": 400
+      },
+      {
+        "startTimestamp": 1738202999662,
+        "endTimestamp": 1738203000356,
+        "totalTime": 694
+      },
+      {
+        "startTimestamp": 1738203002757,
+        "endTimestamp": 1738203002797,
+        "totalTime": 40
+      },
+      {
+        "startTimestamp": 1738203002797,
+        "endTimestamp": 1738203003203,
+        "totalTime": 406
+      }
+    ],
+    "aiOverviewPageView": [],
+    "referencePageClicks": 0,
+    "searchResultsPageView": [
+      {
+        "type": "search",
+        "pageId": "searchresult_7",
+        "time": {
+          "startTimestamp": 1738203000352,
+          "endTimestamp": 1738203002581,
+          "totalTime": 2229
+        },
+        "hasScrolledToBottom": true
+      }
+    ]
+  },
+  {
+    "userId": "e33",
+    "pageType": "1",
+    "responses": [
+      {
+        "question": "Please enter your Prolific ID.",
+        "answer": "e33",
+        "timestamp": "2025-01-30T03:22:41.305Z"
+      },
+      {
+        "question": "In this study, you will be expected to perform a task. To assist you, you will use an experimental search engine that works like popular search engines such as Google or Bing. This experimental search engine retrieves information from a library of offline documents. You will be shown a search results page to review and can click on the links to view more information directly within the interface.",
+        "answer": "I understand the instructions above and am ready to continue.",
+        "timestamp": "2025-01-30T03:22:44.122Z"
+      },
+      {
+        "question": "You are only allowed to use the search tool provided here and should not use any external sources. You must remain within the study interface for the duration of the study.",
+        "answer": "I understand that I am only supposed to use the search tool provided to me here and no external sources.",
+        "timestamp": "2025-01-30T03:22:44.122Z"
+      },
+      {
+        "question": "You will be shown the task description on the next page. During the study, you can click the left sidebar to view the task again and the right sidebar to access a notepad. Using the notepad is optional and not required.",
+        "answer": "I understand the instructions above and am ready to continue.",
+        "timestamp": "2025-01-30T03:22:44.122Z"
+      },
+      {
+        "question": "What is your recommendation for the city of Bryn Bower regarding the Hallman Inc. proposal?",
+        "answer": "I think the city should approve the proposal.",
+        "timestamp": "2025-01-30T03:22:48.847Z"
+      },
+      {
+        "question": "Why? List as many reasons as you can think of to support your decision. Use information from the search results your just read to support your arguments.",
+        "answer": "e",
+        "timestamp": "2025-01-30T03:22:48.847Z"
+      }
+    ],
+    "openScrollTimes": [],
+    "hasScrolledToBottom": false,
+    "aiOverviewHoverTimes": [],
+    "searchResultsHoverTimes": [],
+    "aiOverviewPageView": [],
+    "referencePageClicks": 0,
+    "searchResultsPageView": []
+  },
+  {
+    "userId": "dw",
+    "pageType": "1",
+    "responses": [
+      {
+        "question": "Please enter your Prolific ID.",
+        "answer": "dw",
+        "timestamp": "2025-01-30T03:24:39.928Z"
+      },
+      {
+        "question": "In this study, you will be expected to perform a task. To assist you, you will use an experimental search engine that works like popular search engines such as Google or Bing. This experimental search engine retrieves information from a library of offline documents. You will be shown a search results page to review and can click on the links to view more information directly within the interface.",
+        "answer": "I understand the instructions above and am ready to continue.",
+        "timestamp": "2025-01-30T03:24:43.278Z"
+      },
+      {
+        "question": "You are only allowed to use the search tool provided here and should not use any external sources. You must remain within the study interface for the duration of the study.",
+        "answer": "I understand that I am only supposed to use the search tool provided to me here and no external sources.",
+        "timestamp": "2025-01-30T03:24:43.278Z"
+      },
+      {
+        "question": "You will be shown the task description on the next page. During the study, you can click the left sidebar to view the task again and the right sidebar to access a notepad. Using the notepad is optional and not required.",
+        "answer": "I understand the instructions above and am ready to continue.",
+        "timestamp": "2025-01-30T03:24:43.278Z"
+      },
+      {
+        "question": "What is your recommendation for the city of Bryn Bower regarding the Hallman Inc. proposal?",
+        "answer": "I think the city should approve the proposal.",
+        "timestamp": "2025-01-30T03:24:46.719Z"
+      },
+      {
+        "question": "Why? List as many reasons as you can think of to support your decision. Use information from the search results your just read to support your arguments.",
+        "answer": "d",
+        "timestamp": "2025-01-30T03:24:46.719Z"
+      }
+    ],
+    "openScrollTimes": [],
+    "hasScrolledToBottom": false,
+    "aiOverviewHoverTimes": [],
+    "searchResultsHoverTimes": [],
+    "aiOverviewPageView": [],
+    "referencePageClicks": 0,
+    "searchResultsPageView": []
+  }
+]
