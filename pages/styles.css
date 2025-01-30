@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#toggleBtn {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: -33.33%; /* 初始位置在屏幕左侧外 */
+    width: 33.33%; /* 占据1/3屏幕 */
+    height: 100%;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.5);
+    transition: left 0.3s ease; /* 平滑过渡效果 */
+}
+
+.sidebar.active {
+    left: 0; /* 显示时的位置 */
+}

@@ -1,0 +1,385 @@
+body {
+    font-family: 'Google Sans', sans-serif;
+    background-color: #f2f2f2;
+    margin: 0 20px;
+    padding: 20px;
+    line-height: 1.4;
+}
+
+.module {
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 10px;
+    background-color: #d3d3d3;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #a9a9a9;
+}
+
+.validate-error {
+    color: red;
+    margin-top: 10px;
+}
+
+.task-container {
+    border: 1px solid #ddd;
+    padding: 20px;
+    background-color: #f9f9f9;
+    margin-bottom: 20px;
+}
+
+.search-result {
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+}
+
+
+.search-result a:hover {
+    text-decoration: underline;
+}
+
+#results-container {
+    max-height: 500px;
+    overflow-y: scroll;
+    /*border: 1px solid #ddd;*/
+    padding: 10px;
+    margin-top: 20px;
+}
+
+
+textarea {
+    width: 100%;
+    height: 100px;
+}
+
+.ai-overview {
+    position: relative;
+    padding: 20px 30px;
+    margin-bottom: 30px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    font-family: 'Google Sans', sans-serif;
+    color: #333333;
+    line-height: 1.5;
+}
+
+.ai-content p {
+    font-size: 15px;
+}
+
+.ai-link {
+    color: #4285F4;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.ai-link:hover {
+    color: #306acb;
+}
+
+.ai-content ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.ai-content li {
+    font-size: 15px;
+}
+
+
+
+#floating-window {
+    position: absolute;
+    z-index: 1000;
+}
+
+#app {
+    max-width: 70%;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.show-more {
+    color: #4285F4;
+    cursor: pointer;
+    margin-top: 10px;
+    display: inline-block;
+    border: none;
+    background: none;
+}
+
+.hidden {
+    max-height: 200px;
+    overflow: hidden;
+    transition: max-height 0.3s ease;
+}
+
+.expanded {
+    max-height: none;
+}
+
+
+.search-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.search-box input {
+    width: 85%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 18px;
+    padding: 10px 10px 10px 20px;
+
+}
+
+.search-box button {
+    background-color: #4285F4;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 0;
+}
+
+.result {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.result:last-child {
+    border-bottom: none;
+}
+
+.result-title {
+    color: #1a0dab;
+    text-decoration: none;
+    font-size: 18px;
+}
+.result-title:hover {
+    text-decoration: underline;
+}
+
+.result-url {
+    color: #006621;
+    font-size: 14px;
+}
+
+.result-snippet {
+    color: #545454;
+    font-size: 16px;
+}
+
+
+.card {
+    background-color: #e9f1fb;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 250px;
+}
+
+.title {
+    font-size: 16px;
+    color: black;
+    margin: 0 0 10px;
+}
+
+.title-link {
+    text-decoration: none; /* 去掉下划线 */
+    color: #2c3e50; /* 链接颜色 */
+    transition: text-decoration 0.3s; /* 添加过渡效果 */
+}
+
+.title-link:hover {
+    text-decoration: underline; /* 悬停时添加下划线 */
+    cursor: pointer; /* 悬停时改变光标样式 */
+}
+
+.description {
+    font-size: 14px;
+    color: #34495e;
+    margin: 0 0 15px;
+}
+
+.ai-content-title {
+    display: flex;
+    align-items: flex-start;
+}
+.ai-content-title span {
+    margin-left: 5px;
+    font-weight: bold;
+}
+
+
+.page {
+    margin-bottom: 200px; /* Adjust as needed */
+    padding: 20px;
+}
+
+.page-title {
+    font-size: 42px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.page-author {
+    font-size: 20px;
+    color: #555;
+    margin-bottom: 40px;
+}
+
+.page-image {
+    display: block;
+    margin: 0 auto;
+}
+
+.modal {
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fefefe;
+    padding: 30px;
+    border: 1px solid #888;
+    width: 70%;
+    max-height: 700px;
+    overflow-y: auto;
+}
+
+.back-button {
+    position: fixed;
+    top: 10px;
+    right: 30px;
+}
+
+
+.left-sidebar {
+    position: fixed;
+    top: 0;
+    left: -52%;
+    width: 42%;
+    height: 100%;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.5);
+    transition: left 0.3s ease;
+    background-color: white;
+    padding: 5%;
+    z-index: 1002;
+}
+
+.left-sidebar.active {
+    left: 0;
+}
+
+#left-sidebar-toggle {
+    position: absolute;
+    top: 45%;
+    right: -52px;
+    transform: translateY(-45%);
+    padding: 10px 20px;
+}
+
+.right-sidebar {
+    position: fixed;
+    top: 0;
+    right: -33.33%;
+    width: 23.33%;
+    height: 100%;
+    box-shadow: -2px 0 5px rgba(0, 0, 0, 0.5);
+    transition: right 0.3s ease;
+    background-color: white;
+    padding: 5%;
+    z-index: 1002;
+}
+
+.right-sidebar.active {
+    right: 0;
+}
+
+#right-sidebar-toggle {
+    position: absolute;
+    top: 45%;
+    left: -52px;
+    transform: translateY(-45%);
+    padding: 10px 20px;
+}
+
+#notepad {
+    width: 100%; /* 可以根据需要调整 */
+    margin: 0 auto; /* 居中对齐 */
+    height: 90%;
+}
+
+textarea { 
+    width: 98%; /* Set width to 98% of the parent element */
+    height: 400px; /* Adjust the height in pixels (or use vh/em) */
+    resize: none; /* Disable manual resizing */
+    padding: 8px; /* Add inner spacing */
+    font-size: 14px; /* Adjust font size */
+    font-family: 'Arial', sans-serif; /* Change font */
+    line-height: 1.4; /* Improve readability */
+    overflow: auto; /* Allow scrolling if content overflows */
+    border: 1px solid #8f8e8e; /* Add a subtle border */
+    border-radius: 3px; /* Rounded corners for aesthetics */
+}
+
+.textarea-notepad { 
+    width: 98%; /* Set width to 98% of the parent element */
+    height: 80%; /* Adjust the height in pixels (or use vh/em) */
+    resize: none; /* Disable manual resizing */
+    padding: 8px; /* Add inner spacing */
+    font-size: 14px; /* Adjust font size */
+    font-family: 'Arial', sans-serif; /* Change font */
+    line-height: 1.4; /* Improve readability */
+    overflow: auto; /* Allow scrolling if content overflows */
+    border: 1px solid #8f8e8e; /* Add a subtle border */
+    border-radius: 3px; /* Rounded corners for aesthetics */
+}
+
+.textarea-small { 
+    width: 98%; /* Set width to 98% of the parent element */
+    height: 50px; /* Adjust the height in pixels (or use vh/em) */
+    resize: none; /* Disable manual resizing */
+    padding: 8px; /* Add inner spacing */
+    font-size: 14px; /* Adjust font size */
+    font-family: 'Arial', sans-serif; /* Change font */
+    line-height: 1.4; /* Improve readability */
+    overflow: auto; /* Allow scrolling if content overflows */
+    border: 1px solid #8f8e8e; /* Add a subtle border */
+    border-radius: 3px; /* Rounded corners for aesthetics */
+}
+
+#next-button {
+    position: fixed;
+    bottom: 60px;
+    right: 100px;
+}

@@ -1,0 +1,207 @@
+{
+  "page1": [
+    "Please enter your Prolific ID:"
+  ],
+  "page2": [
+    "In this study, you will be expected to perform a task. To assist you, you will use an experimental search engine that works like popular search engines such as Google or Bing. This experimental search engine retrieves information from a library of offline documents. You will be shown a search results page to review and can click on the links to view more information directly within the interface.",
+    "You are only allowed to use the search tool provided here and should not use any external sources. You must remain within the study interface for the duration of the study.",
+    "You will be shown the task description on the next page. During the study, you can click the left sidebar to view the task again and the right sidebar to access a notepad. Using the notepad is optional and not required."
+  ],
+  "page3": [
+    "[INSERT TEXT]",
+    "[INSERT TEXT]"
+  ],
+  "page5": [
+    "What is your recommendation for the city of Bryn Bower regarding the Hallman Inc. proposal?",
+    "Why? Prepare a document outlining your thoughts, and explaining your final decision."
+  ],
+  "page6": [
+    "How confident are you in your decision on the last page?",
+    "The search engine retrieved information from a library of offline documents. List any document(s) you can recall. If you don't remember any, please write 'None'."
+  ],
+  "page7": [
+    "How relevant do you consider the document about “a map of Bryn Bower indicating the contaminated areas” to the task? Rate your opinion from Irrelevant to Relevant.",
+    "How trustworthy do you consider the document about “a map of Bryn Bower indicating the contaminated areas”? Rate your opinion from Untrustworthy to Trustworthy.",
+    "How do you view the stance of the document about “a map of Bryn Bower indicating the contaminated areas”? Rate its tendency from Pro to Con."
+  ],
+  "page8": [
+    "How relevant do you consider the document about “a leaked confidential Hallman document that estimates cleanup costs” to the task? Rate your opinion from Irrelevant to Relevant.",
+    "How trustworthy do you consider the document about “a leaked confidential Hallman document that estimates cleanup costs”? Rate your opinion from Untrustworthy to Trustworthy.",
+    "How do you view the stance of the document about “a leaked confidential Hallman document that estimates cleanup costs”? Rate its tendency from Pro to Con."
+  ], 
+  "page9": [
+    "How relevant do you consider the document about “a newspaper article describing the tumultuous townhall meeting” to the task? Rate your opinion from Irrelevant to Relevant.",
+    "How trustworthy do you consider the document about “a newspaper article describing the tumultuous townhall meeting”? Rate your opinion from Untrustworthy to Trustworthy.",
+    "How do you view the stance of the document about “a newspaper article describing the tumultuous townhall meeting”? Rate its tendency from Pro to Con."
+  ],
+  "page10": [
+    "How relevant do you consider the document about “a pamphlet of the Clean Bryn Bower Initiative (CBBI) who opposes the proposal” to the task? Rate your opinion from Irrelevant to Relevant.",
+    "How trustworthy do you consider the document about “a Pamphlet of the Clean Bryn Bower Initiative (CBBI) who opposes the proposal”? Rate your opinion from Untrustworthy to Trustworthy.",
+    "How do you view the stance of the document about “a Pamphlet of the Clean Bryn Bower Initiative (CBBI) who opposes the proposal”? Rate its tendency from Pro to Con."
+  ],
+  "page11": [
+    "How relevant do you consider the document about “EPA brochure on the toxicity of Exafluoran” to the task? Rate your opinion from Irrelevant to Relevant.",
+    "How trustworthy do you consider the document about “EPA brochure on the toxicity of Exafluoran”? Rate your opinion from Untrustworthy to Trustworthy.",
+    "How do you view the stance of the document about “EPA brochure on the toxicity of Exafluoran”? Rate its tendency from pro to con."
+  ],
+  "page12": [
+    "How relevant do you consider the document about “an interview with David Hallman Sr., founder of Hallman Inc., on his 90th birthday” to the task? Rate your opinion from Irrelevant to Relevant.",
+    "How trustworthy do you consider the document about “an interview with David Hallman Sr., founder of Hallman Inc., on his 90th birthday”? Rate your opinion from Untrustworthy to Trustworthy.",
+    "How do you view the stance of the document about “an interview with David Hallman Sr., founder of Hallman Inc., on his 90th birthday”? Rate its tendency from Pro to Con."
+  ],
+  "page13": [
+    "How relevant do you consider the document about “the Resolution of the Southern Illinois Chapter of the Chemical Workers Union (CWU)” to the task? Rate your opinion from Irrelevant to Relevant.",
+    "How trustworthy do you consider the document about “the Resolution of the Southern Illinois Chapter of the Chemical Workers Union (CWU)”? Rate your opinion from Untrustworthy to Trustworthy.",
+    "How do you view the stance of the document about “the Resolution of the Southern Illinois Chapter of the Chemical Workers Union (CWU)”? Rate its tendency from Pro to Con."
+  ],
+  "page14": [
+    "Thank you for your participation! Please click the following link to return to Prolific: ",
+    "www.prolific.com"
+  ],
+  "page2Title1Choices": [
+    "I understand the instructions above and am ready to continue."
+  ],
+  "page2Title2Choices": [
+    "I understand that I am only supposed to use the search tool provided to me here and no external sources."
+  ],
+  "page2Title3Choices": [
+    "I understand the instructions above and am ready to continue."
+  ],
+  "page5Title1Choices": [
+    "I suggest the city should approve the proposal.",
+    "I suggest the city should reject the proposal."
+  ],
+  "page6Title1Choices": [
+    "Very Confident",
+    "Somewhat Confident",
+    "Neither Confident nor Unconfident",
+    "Somewhat Unconfident",
+    "Very Unconfident"
+  ],
+  "page7Title1Choices": [
+    "Relevant",
+    "Neither Relevant Nor Irrelevant",
+    "Irrelevant",
+    "I don't remember"
+  ],
+  "page7Title2Choices": [
+    "Trustworthy",
+    "Neither Trustworthy Nor Untrustworthy",
+    "Untrustworthy",
+    "I don't remember"
+  ],
+  "page7Title3Choices": [
+    "Pro",
+    "Neither Pro Nor Con",
+    "Con",
+    "I don't remember"
+  ],
+  "page8Title1Choices": [
+    "Relevant",
+    "Neither Relevant Nor Irrelevant",
+    "Irrelevant",
+    "I don't remember"
+  ],
+  "page8Title2Choices": [
+    "Trustworthy",
+    "Neither Trustworthy Nor Untrustworthy",
+    "Untrustworthy",
+    "I don't remember"
+  ],
+  "page8Title3Choices": [
+    "Pro",
+    "Neither Pro Nor Con",
+    "Con",
+    "I don't remember"
+  ],
+  "page9Title1Choices": [
+    "Relevant",
+    "Neither Relevant Nor Irrelevant",
+    "Irrelevant",
+    "I don't remember"
+  ],
+  "page9Title2Choices": [
+    "Trustworthy",
+    "Neither Trustworthy Nor Untrustworthy",
+    "Untrustworthy",
+    "I don't remember"
+  ],
+  "page9Title3Choices": [
+    "Pro",
+    "Neither Pro Nor Con",
+    "Con",
+    "I don't remember"
+  ],
+  "page10Title1Choices": [
+    "Relevant",
+    "Neither Relevant Nor Irrelevant",
+    "Irrelevant",
+    "I don't remember"
+  ],
+  "page10Title2Choices": [
+    "Trustworthy",
+    "Neither Trustworthy Nor Untrustworthy",
+    "Untrustworthy",
+    "I don't remember"
+  ],
+  "page10Title3Choices": [
+    "Pro",
+    "Neither Pro Nor Con",
+    "Con",
+    "I don't remember"
+  ],
+  "page11Title1Choices": [
+    "Relevant",
+    "Neither Relevant Nor Irrelevant",
+    "Irrelevant",
+    "I don't remember"
+  ],
+  "page11Title2Choices": [
+    "Trustworthy",
+    "Neither Trustworthy Nor Untrustworthy",
+    "Untrustworthy",
+    "I don't remember"
+  ],
+  "page11Title3Choices": [
+    "Pro",
+    "Neither Pro Nor Con",
+    "Con",
+    "I don't remember"
+  ],
+  "page12Title1Choices": [
+    "Relevant",
+    "Neither Relevant Nor Irrelevant",
+    "Irrelevant",
+    "I don't remember"
+  ],
+  "page12Title2Choices": [
+    "Trustworthy",
+    "Neither Trustworthy Nor Untrustworthy",
+    "Untrustworthy",
+    "I don't remember"
+  ],
+  "page12Title3Choices": [
+    "Pro",
+    "Neither Pro Nor Con",
+    "Con",
+    "I don't remember"
+  ],
+  "page13Title1Choices": [
+    "Relevant",
+    "Neither Relevant Nor Irrelevant",
+    "Irrelevant",
+    "I don't remember"
+  ],
+  "page13Title2Choices": [
+    "Trustworthy",
+    "Neither Trustworthy Nor Untrustworthy",
+    "Untrustworthy",
+    "I don't remember"
+  ],
+  "page13Title3Choices": [
+    "Pro",
+    "Neither Pro Nor Con",
+    "Con",
+    "I don't remember"
+  ]
+}
